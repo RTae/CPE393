@@ -4,6 +4,8 @@ This repository is collection of lecture, homework and my note summary in CPE393
 
 For criteria you can get more detail about it below here
 
-![](https://raw.githubusercontent.com/RTae/CPE393/main/etc/syllabus/page_1.png?raw=True)
+
+<a href="https://github.com/RTae/CPE393/blob/main/CPE393_Syllabus.pdf">
+<img src="https://raw.githubusercontent.com/RTae/CPE393/main/etc/syllabus/page_1.png?raw=True" alt="Illustration" width="320px"/></a>
 
 ## :pushpin: Week 1 - Introduction
