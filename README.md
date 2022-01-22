@@ -2,4 +2,4 @@
 
 This repository is collection of lecture, homework and my note summary in CPE393 from KMUTT
 
-## :pinhead: Week 1 - Introduction
+## :pushpin: Week 1 - Introduction
